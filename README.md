@@ -1,4 +1,4 @@
-# Herões API
+# Heroes API
 
 Heroes API developed with:
 * Spring Web Flux
