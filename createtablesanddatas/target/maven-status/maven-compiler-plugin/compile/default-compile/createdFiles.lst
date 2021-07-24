@@ -1,0 +1,5 @@
+ccom\dynamodbconfig\HeroesConstant.class
+com\dynamodbconfig\HeroesData.class
+com\dynamodbconfig\HeroesTable.class
+com\dynamodbconfig\App.class
+com\dynamodbconfig\DynamoConfig.class
